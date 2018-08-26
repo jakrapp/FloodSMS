@@ -15,7 +15,7 @@ def banner():
     print B+"|  ____| |    / __ \ / __ \|  __ \ "+W+R+"\tJaka"+W+" Taruna"+W
     print G+"| |__  | |   | |  | | |  | | |  | |"+W+O+" --[ PBM TEAM ]--"+W
     print P+"|  __| | |   | |  | | |  | | |  | |"+W+C+" SMS V.0.1 Beta"+W
-    print C+"| |    | |___| |__| | |__| | |__| |"+W+R+"Savage"+W
+    print C+"| |    | |___| |__| | |__| | |__| |"+W+O+" Thanks to "+R+"Qiuby"+W+" Zhukhi"+W
     print W+"|_|    |______\____/ \____/|_____/ "+W
     print ""
 def post_data():
